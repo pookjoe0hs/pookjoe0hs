@@ -1,5 +1,5 @@
 Edelstein_hanshin student
-<img width="270" height="148" alt="qhshqhsh" src="https://github.com/user-attachments/assets/fcd2c67e-9ff6-4b16-b8f1-5ee4aa55a4ef" />
+                       <img width="270" height="148" alt="qhshqhsh" src="https://github.com/user-attachments/assets/fcd2c67e-9ff6-4b16-b8f1-5ee4aa55a4ef" />
 
 
 # ABOUT 정민수 
