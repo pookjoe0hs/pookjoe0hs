@@ -3,15 +3,13 @@ Edelstein_hanshin student
  <img width="270" height="148" alt="qhshqhsh" src="https://github.com/user-attachments/assets/fcd2c67e-9ff6-4b16-b8f1-5ee4aa55a4ef" />
                       
 
-## 안녕하세요 민수에요
+## 202678192 MInsu Jeong _ Hanshin university
+### 이놈은 누구냐?
 
-메인페이지 수정이됐을까요?
+2026년에 한신대학교에 입학해서 처음으로 코딩을 배우고 있는 게임 프로그래머를 지망하는 학생입니다.
 
-내일 중간고사인데 너무 걱정돼요
 
-뭔 교양 암기량이 이렇게 많은지
 
-차라리 코딩 공부만 하는게 속 편하겠어요
 
 
 
