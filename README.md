@@ -1,9 +1,12 @@
 Edelstein_hanshin student
 # 안녕하세요 정민수입니다.
- <img width="270" height="148" alt="qhshqhsh" src="https://github.com/user-attachments/assets/fcd2c67e-9ff6-4b16-b8f1-5ee4aa55a4ef" />
+-------------
+<img width="2266" height="1246" alt="image" src="https://github.com/user-attachments/assets/c74dc711-f477-40e0-9110-702accc2df09" />
+
                       
 
 ## 202678192 MInsu Jeong _ Hanshin university
+--------------
 ### 이놈은 누구냐?
 
 2026년에 한신대학교에 입학해서 처음으로 코딩을 배우고 있는 게임 프로그래머를 지망하는 학생입니다.
