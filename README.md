@@ -1,3 +1,6 @@
+Edelstein_hanshin student
+<img width="241" height="209" alt="akf7" src="https://github.com/user-attachments/assets/3103bc2e-c431-4c76-9379-4da6fb2638f7" />
+
 # ABOUT 정민수 
 
 ## 안녕하세요 민수에요
