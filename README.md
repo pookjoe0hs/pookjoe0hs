@@ -10,7 +10,7 @@ Edelstein_hanshin student
 
 전) 수성고등학교 학생
 
-현) SE랩 소속 
+현) 한신대 SE랩 소속 뉴비
 
 
 
