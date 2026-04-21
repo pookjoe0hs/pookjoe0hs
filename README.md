@@ -1,5 +1,5 @@
-#TEXtRPG_SBH
-개인프로젝트 텍스트RPG만들기
+#TEXtRPG_SBH\n
+개인프로젝트 텍스트RPG만들기\n
 
 #제목
 ##제목2
