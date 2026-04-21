@@ -1,4 +1,14 @@
-## Hi there 👋
+#TEXtRPG_SBH
+개인프로젝트 텍스트RPG만들기
+
+#제목
+##제목2
+###제목3
+####제목4
+#####제목5
+######제목6
+#######제목7
+
 
 <!--
 **pookjoe0hs/pookjoe0hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
